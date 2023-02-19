@@ -1,5 +1,5 @@
 CREATE TABLE OrderID (
-	OrderID INT PRIMARY KEY,
+  OrderID INT PRIMARY KEY,
   OrderDate date,
   Amount INT,
   Price REAL,
@@ -35,7 +35,7 @@ INSERT INTO OrderID VALUES
   (19, "2022-11-13", 1, 55, 1, 1, 2, 2),
   (20, "2022-11-18", 4, 260, 4, 1, 1, 7);
 
-
+---------------------------------------------------------------------
 CREATE TABLE Menu (
 	MenuID INT PRIMARY KEY,
   Menulist TEXT,
@@ -50,7 +50,7 @@ INSERT INTO Menu VALUES
   (5, "Matcha Latte", 60),
   (6, "Cocoa", 60);
     
-    
+---------------------------------------------------------------------   
 CREATE TABLE Staff (
   StaffID INT PRIMARY KEY,
   StaffName TEXT
@@ -60,7 +60,7 @@ INSERT INTO Staff VALUES
 	(1, "Lionel"),
   (2, "andres");
     
-    
+---------------------------------------------------------------------    
 CREATE TABLE PaymentMethod (
   PaymentID INT PRIMARY KEY,
  	Paymenttype TEXT
@@ -71,7 +71,7 @@ INSERT INTO PaymentMethod VALUES
   (2, "Creditcard"),
   (3, "Debitcard");
     
-    
+---------------------------------------------------------------------    
 CREATE TABLE Customers (
 	CustomerID INT PRIMARY KEY,
   name TEXT,
@@ -86,7 +86,7 @@ INSERT INTO Customers VALUES
   (5, "Marry", "Female"),
   (6, "Anna", "Female"),
   (7, "Kendra", "Female");
-
+---------------------------------------------------------------------
 .mode markdown
 .header on
 
