@@ -4,7 +4,7 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
 &nbsp;<br>
 &nbsp;<br>
 ### <ins>Spreadsheets</ins>
- - [ ] Dynamic Query - Queries that return results dynamically
+ - [ ] [Dynamic Query](https://github.com/srrytn92/bootcamp_projects/blob/main/Spreadsheets/Project%20Dynamic%20Query.pdf) - Queries that return results dynamically
  - [ ] Converting Date - Converting TH date to EN date
  - [ ] ID Card Parser - Using regular expression to extract and parse ID card information
 -------------------------------------------------------------------------------------------------------------------------------------------------
