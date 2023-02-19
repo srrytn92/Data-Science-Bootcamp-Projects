@@ -37,13 +37,13 @@ INSERT INTO OrderID VALUES
 
 ---------------------------------------------------------------------
 CREATE TABLE Menu (
-	MenuID INT PRIMARY KEY,
+  MenuID INT PRIMARY KEY,
   Menulist TEXT,
   Price REAL
 );
 
 INSERT INTO Menu VALUES
-	(1, "Americano", 55.0),
+  (1, "Americano", 55.0),
   (2, "Esspresso", 65.0),
   (3, "Latte", 65.0),
   (4, "Mocha", 65.0),
@@ -57,7 +57,7 @@ CREATE TABLE Staff (
 );
 
 INSERT INTO Staff VALUES
-	(1, "Lionel"),
+  (1, "Lionel"),
   (2, "andres");
     
 ---------------------------------------------------------------------    
@@ -67,19 +67,19 @@ CREATE TABLE PaymentMethod (
 );
 
 INSERT INTO PaymentMethod VALUES
-	(1, "Cash"),
+  (1, "Cash"),
   (2, "Creditcard"),
   (3, "Debitcard");
     
 ---------------------------------------------------------------------    
 CREATE TABLE Customers (
-	CustomerID INT PRIMARY KEY,
+  CustomerID INT PRIMARY KEY,
   name TEXT,
   Gender TEXT
 );
 
 INSERT INTO Customers VALUES
-	(1, "Jadon", "Male"),
+  (1, "Jadon", "Male"),
   (2, "Kingley", "Male"),
   (3, "Vinicius", "Male"),
   (4, "Ousmane", "Male"),
