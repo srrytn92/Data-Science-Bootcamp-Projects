@@ -31,7 +31,7 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
  - [ ] ATM OOP - An ATM class (Object-Oriented Programming) containing at least 5 methods as ATM functions to interact with users.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### <ins>Essential Python for Data Analyst</ins>
- - [ ] Analysis with Pandas/Numpy - Using the pandas and numpy library to analyze sales data
+ - [ ] [Analysis with Pandas/Numpy](https://datalore.jetbrains.com/notebook/2KEq0fG5bU3H3INWO8oCzI/hMrvpC6RmSBSC55AbnaSCD/) - Using the pandas and numpy library to analyze sales data
  - [ ] Public API - Using Public API from TikTok All in One to create the data frame of Music search
  - [ ] Simple ML models with Sklearn - Using the sklearn library to build simple machine learning models 
 -------------------------------------------------------------------------------------------------------------------------------------------------
