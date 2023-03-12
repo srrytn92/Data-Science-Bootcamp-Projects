@@ -23,8 +23,6 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### <ins>Statistics</ins>
  - [x] [Titanic Survival Prediction](https://github.com/srrytn92/bootcamp_projects/blob/2194b41ab767362d838e05ad4cbedfa8eedbef0d/Statistics/Homework_Stats_Batch_06.pdf) - Using the titanic dataset to predict the survival of Titanic passengers by logistic regression in R
- - [ ] Diamonds-Linear Regression 
- - [ ] A/B Testing 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### <ins>Intro to Python Programming</ins>
  - [x] [Rock Paper Scissors](https://github.com/srrytn92/bootcamp_projects/blob/2194b41ab767362d838e05ad4cbedfa8eedbef0d/Intro%20to%20Python%20Programming/Batch_06_Pao_Ying_Chub_HW.ipynb) - An interactive mini game with bot using Python
