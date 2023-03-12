@@ -41,4 +41,4 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br> 
- ### <ins>Badge</ins> : -
+ ### <ins>Badge</ins> : [Certified Professional Data Analyst](https://api.badgr.io/public/assertions/rsGjTqCXTHukhyKmeWNxJg?identity__email=srrytn92%40gmail.com)
