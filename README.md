@@ -30,7 +30,7 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### <ins>Essential Python for Data Analyst</ins>
  - [x] [Analysis with Pandas/Numpy](https://datalore.jetbrains.com/notebook/2KEq0fG5bU3H3INWO8oCzI/hMrvpC6RmSBSC55AbnaSCD/) - Using the pandas and numpy library to analyze sales data
- - [x] [Public API](https://github.com/srrytn92/bootcamp_projects/blob/2194b41ab767362d838e05ad4cbedfa8eedbef0d/Essential%20Python%20for%20Data%20Analyst/API_HW_Batch06.pdf) - Using Public API from TikTok All in One to create the data frame of Music search
+ - [x] [Public API](https://github.com/srrytn92/bootcamp_projects/blob/2194b41ab767362d838e05ad4cbedfa8eedbef0d/Essential%20Python%20for%20Data%20Analyst/API_HW_Batch06.pdf) - Using Public API
  - [x] [Simple ML models with Sklearn](https://github.com/srrytn92/bootcamp_projects/blob/2194b41ab767362d838e05ad4cbedfa8eedbef0d/Essential%20Python%20for%20Data%20Analyst/HW_ML_Batch06.pdf) - Using the sklearn library to build simple machine learning models 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### <ins>Dashboard</ins>
